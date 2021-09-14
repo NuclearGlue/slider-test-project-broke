@@ -1,0 +1,16 @@
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+
+// Стили для файлов
+@import './variables';
+@import './general';
+@import './hero-header';
+@import './about';
+@import './advantages';
+@import './products';
+@import './gallery';
+@import './customer-reviews';
+@import './contacts';
+@import './footer';
