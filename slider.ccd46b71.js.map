@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/slick/slider.js"],"names":["$","slick"],"mappings":";AACEA,EAAE,WAAWC","file":"slider.ccd46b71.js","sourceRoot":"../src","sourcesContent":["\n  $('.slider').slick();\n\n\n \n"]}
